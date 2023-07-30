@@ -20,3 +20,7 @@ Migration Project for Pathways in Data Science course @ UChicago
 | Migration_Flows_from_2010_to_2019.csv | Migration inflow and outflow patterns from US Census                |
 | SAGDP2N__ALL_AREAS_1997_2020.csv      | GDP information by state and year, from Bureau Of Economic Analysis |
 | states_all.csv                        | Education data for each state, from NCES                            |
+
+Additionally, the "map/" directory contains the geographical shapefiles necessary to plot the United States maps in the
+Wildfire & Housing Index notebook.
+
