@@ -6,7 +6,8 @@ Migration Project for Pathways in Data Science course @ UChicago
 | **Notebook**              | **Description**                                                                     |
 |---------------------------|-------------------------------------------------------------------------------------|
 | [create_dataframe.ipynb](create_dataframe.ipynb)    | Combines all the datasets we used into a single DataFrame; creates [full_df_testing.csv](full_df_testing.csv) |
-| [state-testing.ipynb](state-testing.ipynb)       | Graphs the inflow and outflow migration patterns for each state                     |
+| [gdp_analysis.ipynb](gdp_analysis.ipynb)       | Graphs the inflow and outflow migration patterns for each state according to GDP |
+| [wildfire_housing_analysis.ipynb](wildfire_housing_analysis.ipynb)       | Graphs the inflow and outflow migration patterns for each state according to housing index and wildfires |
 | [predictive_modeling.ipynb](predictive_modeling.ipynb) | Produces and tests the quadratic and multilinear regression models                  |
 | [polynomial_regression.py](polynomial_regression.py)  | Auxiliary function to fit and graph a polynomial curve for the given data                               |
 
